@@ -16,6 +16,19 @@ author_profile: true
 <br><br>
 
 
+## Explanatory Diversity and Embodied Cognitive Science: Reflexivity motivates Pluralism.<br>*Methodology of Situated Cognition Research*, Springer, forthcoming. ([Link coming soon]()) <img align="right" src="https://gui-cogsci.github.io/images/.jpg" width="130">
+>  Explanatory diversity is a salient feature of the sciences of the mind, where different projects focus on neural, psychological, cognitive, social or other explanations. The same happens within embodied cognitive science, where ecological, enactive, dynamical, phenomenological and other approaches differ from each other in their explanations of the embodied mind. As traditionally conceived, explanatory diversity is philosophically problematic, fueling debates about whether the different explanations are competing, compatible, or tangential. In contrast, this paper takes the perspective of embodied cognitive science as its starting point and accordingly approaches explanatory diversity not as a problem to be solved, but as a phenomenon to be understood. Recent work has explored how the view of cognition as embodied motivates reflexively viewing science as a situated embodied cognitive practice. Here I argue that this reflexive turn motivates adopting a pluralistic stance when it comes to questions about theoretical and methodological disagreements. In particular, it motivates moving away from thinking in terms of explanations as disembodied entities that compete with one another, and instead thinking in terms of different explanatory styles as embodied practices of explaining, many of which might be legitimate and warranted independently of whether and how the explanations themselves relate to one another.
+> 
+> KEYWORDS: explanatory diversity; explanatory pluralism; pluralism of explanatory styles; situation; reflexivity; embodied cognition
+>
+>> Sanches de Oliveira, G. (forthcoming). Explanatory Diversity and Embodied Cognitive Science: Reflexivity motivates Pluralism. In *Methodology of Situated Cognition Research*, Springer.
+
+
+<br><br>
+
+
+
+
 ## Bilingualism is always cognitively advantageous, but this doesn’t mean what you think it means.<br>*Frontiers in Psychology: Language Sciences*, 2022. ([Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.867166/full)) <img align="right" src="https://gui-cogsci.github.io/images/frontierspsychology.png" width="130">
 >  For decades now a research question has firmly established itself as a staple of psychological and neuroscientific investigations on language, namely the question of whether and how bilingualism is cognitively beneficial, detrimental or neutral. As more and more studies appear every year, it seems as though the research question itself is firmly grounded and can be answered if only we use the right experimental manipulations and subject the data to the right analysis methods and interpretive lens. In this paper we propose that, rather than merely improving prior methods in the pursuit of evidence in one direction or another, we would do well to carefully consider whether the research question itself is as firmly grounded as it might appear to be. We identify two bodies of research that suggest the research question to be highly problematic. In particular, drawing from work in sociolinguistics and in embodied cognitive science, we argue that the research question of whether bilingualism is cognitively advantageous or not is based on problematic assumptions about language and cognition. Once these assumptions are addressed head on, a straightforward answer to the question arises, but the question itself comes to seem to be a poor starting point for research. After examining why this is so, we conclude by exploring some implications for future research.
 > 
