@@ -23,7 +23,7 @@ List of peer-reviewed presentations (enumerated) and invited talks or other conf
 
 (80) **"Ecological Psychology and Cognition in Context: Theoretical Foundations and Meta-Theoretical Implications."** Symposium _Embodied Cognition in Context_. Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
 
--  Chair of the symposium _Embodied Cognition in Context_. Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
+-  Chair of the symposium _[Embodied Cognition in Context](https://escholarship.org/uc/item/1139g9g6)_. Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
 
 <br>
 
